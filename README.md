@@ -23,6 +23,7 @@ TASK – Implement a Client Server Architecture using MySQL Database Management 
 Create and configure two Linux-based virtual servers (EC2 instances in AWS).
 ``
 Server A name - mysql server
+``
 Server B name - mysql client
 ``
 
